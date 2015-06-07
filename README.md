@@ -1,2 +1,2 @@
 # first_test
-testing repository creation
+testing repository creation and readme edit
